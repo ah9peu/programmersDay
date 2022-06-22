@@ -23,7 +23,7 @@ public class ProgrammersDay {
                 programmersDay = "13.09." + year;
             }
 
-            System.out.println("День программиста: " + programmersDay);
+            System.out.println(programmersDay);
         }
 
     }
